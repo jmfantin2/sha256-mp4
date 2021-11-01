@@ -2,7 +2,7 @@
 Trabalho avaliativo de Segurança de Sistemas (2021/2)
 
 ```
-git clone https://github.com/jmfantin2/vigenere-cracker.git
+git clone https://github.com/jmfantin2/sha256-mp4.git
 cd sha256-mp4/
 py app.py
 ```
